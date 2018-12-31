@@ -1,0 +1,11 @@
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\bin\Debug\Arma 3 Cam to Texture creator.exe.config
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\bin\Debug\Arma 3 Cam to Texture creator.exe
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\bin\Debug\Arma 3 Cam to Texture creator.pdb
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\obj\Debug\Arma 3 Cam to Texture creator.csprojAssemblyReference.cache
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\obj\Debug\Arma_3_Cam_to_Texture_creator.Form1.resources
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\obj\Debug\Arma_3_Cam_to_Texture_creator.Properties.Resources.resources
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\obj\Debug\Arma 3 Cam to Texture creator.csproj.GenerateResource.cache
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\obj\Debug\Arma 3 Cam to Texture creator.csproj.CoreCompileInputs.cache
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\obj\Debug\Arma 3 Cam to Texture creator.exe
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\obj\Debug\Arma 3 Cam to Texture creator.pdb
+C:\Users\Pit\source\repos\Arma 3 Cam to Texture creator\Arma 3 Cam to Texture creator\obj\Debug\Arma_3_Cam_to_Texture_creator.Form2.resources
